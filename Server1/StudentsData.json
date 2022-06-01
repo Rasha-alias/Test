@@ -1,0 +1,28 @@
+{
+    "students": [{
+
+            "firstName" : "Haitham",
+            "lastName"  : "Grissander",
+            "age"       : 39,        
+            "id"        :0
+        },
+        {
+            "firstName" : "Marija",
+            "lastName"  : "Rubil",
+            "age"       : 32,          
+            "id"        : 1
+        },
+        {
+            "firstName": "Rasha",
+            "lastName" : "Alias ",
+            "age"      : 38,           
+            "id": 2
+        },
+        {
+            "firstName": "Mario",
+            "lastName" : "Fernandez",
+            "age"      : 42,
+            "id"       : 3
+        }
+    ]
+}
